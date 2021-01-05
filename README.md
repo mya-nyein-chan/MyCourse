@@ -1,2 +1,0 @@
-# MyCourse
-Course from Coursea
